@@ -23,6 +23,23 @@ If a system cannot be executed, tested, and reasoned about in production, it is 
 
 ---
 
+## [=] Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+---
+
 ## [+] Featured Work
 
 ### [#] Production AI Infrastructure
@@ -160,6 +177,23 @@ Compile-time governance layer for AI systems enforcing:
 
 ---
 
+## [o] GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flamehaven01&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamehaven01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flamehaven01&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9)
+
+</div>
+
+---
+
 ## [=] Repository Structure
 
 | Repository | Purpose | Status | Tech Stack |
@@ -175,29 +209,16 @@ Compile-time governance layer for AI systems enforcing:
 
 ---
 
-## [o] Tech Stack
-
-```
-Core:        Python | FastAPI | pytest | Black/Isort
-AI/ML:       LLM Reasoning Engines | RAG Systems | NLP Pipelines
-Governance:  SIDRCE | ASDP | Drift Detection (JSD/L2) | HSTA Metrics
-CI/CD:       GitHub Actions | Pre-commit Hooks | Quality Gates
-Security:    TruffleHog | Trivy | Audit Hashing | Evidence Chains
-Scientific:  Structural Biology AI | Drug Development Pipelines | Research-to-Code
-```
-
----
-
 ## [&] Connect
 
 Building **production AI governance systems** that you can execute, audit, and trust.
 
-Not interested in:
+**Not interested in:**
 - Demos that cannot be deployed
 - Research without reproducible artifacts
 - "Green CI" without real execution paths
 
-Interested in:
+**Interested in:**
 - Research-to-production pipelines with formal verification
 - AI reasoning infrastructure with drift detection
 - Governance tooling for LLM systems (traceability, evidence, audit)
@@ -209,7 +230,7 @@ Interested in:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=flamehaven01&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=flamehaven01&color=1f6feb&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/flamehaven01?style=social)](https://github.com/flamehaven01)
 [![GitHub stars](https://img.shields.io/github/stars/flamehaven01?style=social)](https://github.com/flamehaven01)
 
